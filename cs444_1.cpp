@@ -7,6 +7,8 @@
 // Program Description: This program uses the pthreads library to perform matrix multiplication (dot-product).
 // Last updated 2/19/22
 // YouTube Code Review & Demo link: 
+// Yt Link: https://youtu.be/n3Ht6k0vauc
+// Repo link: https://github.com/Caerii/CS444-HW1
 
 // Write a program in C/C++ that uses the pthreads library to perform matrix multiplication (dot-product).
 
